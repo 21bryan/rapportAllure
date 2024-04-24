@@ -1,0 +1,1 @@
+{"uuid":"08051d50-b90f-4b6a-b65d-ba653f69408c","name":"testlogiciel","children":["8ae49dc9-ec82-48f2-ac13-8fa5c4e3a6ce"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1713870988385,"stop":1713870989602}],"afters":[],"start":1713870988355,"stop":1713871016967}
